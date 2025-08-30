@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: qu3r4plkr-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/qu3r4plkr-go
